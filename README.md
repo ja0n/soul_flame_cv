@@ -1,6 +1,8 @@
 # Soul Flame CV
 An image filter using OpenCV for image processing and pygame for drawing effects
 
+[Check an output sample](./sample_output.mp4)
+
 ## Setup
 
 ### Init a Python environment (optional)
